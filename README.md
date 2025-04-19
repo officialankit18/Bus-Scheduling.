@@ -9,7 +9,7 @@ This project aims to modernize and optimize the public transportation infrastruc
 ## 🔧 Features
 
 - 🕒 **Automated Bus Scheduling**
-  - Real-time and dynamic scheduling of buses based on demand and traffic conditions.
+  - Real-time and dynamic scheduling of buses based on demand and traffic conditions(on the basis of maps traffic data).
   - Peak and off-peak hour optimization.
 
 - 🗺️ **Route Management**
